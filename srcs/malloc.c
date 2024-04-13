@@ -1,7 +1,3 @@
 #include "../includes/malloc.h"
 
-int main()
-{
-
-}
-
+int main() { return 0; }
